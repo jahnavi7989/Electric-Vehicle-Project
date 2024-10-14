@@ -12,10 +12,7 @@ This repository contains an **Exploratory Data Analysis (EDA)** of electric vehi
 - [Challenges Faced](#challenges-faced)
 - [Results](#results)
 - [Future Scope](#future-scope)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ---
 
